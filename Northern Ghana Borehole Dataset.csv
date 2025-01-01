@@ -1,4 +1,4 @@
-Location ID,coordinates,Location Name,Location Code,Soil Type,Soil Type Encoded,Annual Rainfall (mm),Groundwater Depth (m),Population Density (people/km²),Distance to River (km),Elevation (m),Historical Success Rate (%),Suitability (0/1),Approximated Project Cost (USD),Rocky Terrain (0/1),Adjusted Project Cost (USD)
+Location ID,coordinates,Location Name,location_code,Soil Type,soil_type_code,annual_rainfall_mm,groundwater_depth_m,population_density,distance_to_river_km,elevation_m,historical _success_rate_%,suitability,approx_project_cost,rocky_terrain,adjusted_project_cost
 1,"10.0988, -0.2643",Bolgatanga,1,Clay,1,722,16.65693648,334,6.351052561,187,85,1,7404.54,0,7404.54
 2,"10.0374, -0.2589",Bolgatanga,1,Sandy,4,992,14.05992548,236,14.56708537,193,87,1,5200.02,1,6603.25
 3,"9.6266, -0.9927",Savelugu,6,Clay,1,891,22.41640805,271,6.37756152,209,59,0,5931.63,1,7710.04
